@@ -1,0 +1,6 @@
+subscription_id: "xxxx-xxxx-xxxx-xxxx"
+resource_group: "my-resource-group"
+check:
+  - vm
+  - storage
+  - servicebus

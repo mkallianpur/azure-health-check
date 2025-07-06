@@ -1,0 +1,13 @@
+
+---
+
+## 📦 requirements.txt
+
+```txt
+azure-identity
+azure-mgmt-resource
+azure-mgmt-compute
+azure-mgmt-storage
+azure-mgmt-servicebus
+pyyaml
+pytest
