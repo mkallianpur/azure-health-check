@@ -1,9 +1,4 @@
 
----
-
-## 📦 requirements.txt
-
-```txt
 azure-identity
 azure-mgmt-resource
 azure-mgmt-compute
